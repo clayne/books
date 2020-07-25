@@ -4,6 +4,8 @@ Reading list :
 - [ ] Unmasking Maskirovka [Amazon](https://www.amazon.com/-/es/Unmasking-Maskirovka-Russias-Influence-Operations/dp/0578451425/)
 - [ ] Russian Influence Campaigns against the West: From the Cold War to Putin [Amazon](https://www.amazon.com/Russian-Influence-Campaigns-against-West/dp/1535597097/)
 - [ ] Active Measures: The Secret History of Disinformation and Political Warfare [Amazon](https://www.amazon.com/Active-Measures-History-Disinformation-Political/dp/0374287260)
+- [ ] Russians Among Us: Sleeper Cells, Ghost Stories, and the Hunt for Putin's Spies [Amazon](https://www.amazon.com/Unti-Lou-Areroc/dp/0062889419/)
+- [ ] Spymaster: My Thirty-two Years in Intelligence and Espionage Against the West [Amazon](https://www.amazon.com/Spymaster-Thirty-two-Intelligence-Espionage-Against/dp/0465014453/)
 - [ ] We Are Bellingcat, An Intelligence Agency for the People [Bloomsbury](https://www.bloomsbury.com/uk/we-are-bellingcat-9781526615756/)
 - [ ] Criminal Profiling: An Introduction to Behavioral Evidence Analysis [Amazon](https://www.amazon.com/Criminal-Profiling-Introduction-Behavioral-Evidence/dp/0123852439)
 - [ ] Applied Behavior Analysis (3rd Edition) [Amazon](https://www.amazon.com/Applied-Behavior-Analysis-John-Cooper/dp/0134752554/)
