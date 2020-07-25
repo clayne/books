@@ -9,7 +9,9 @@ Reading list :
 - [ ] We Are Bellingcat, An Intelligence Agency for the People [Bloomsbury](https://www.bloomsbury.com/uk/we-are-bellingcat-9781526615756/)
 - [ ] Criminal Profiling: An Introduction to Behavioral Evidence Analysis [Amazon](https://www.amazon.com/Criminal-Profiling-Introduction-Behavioral-Evidence/dp/0123852439)
 - [ ] Wordcrime: Solving Crime Through Forensic Linguistics [Amazon](https://www.amazon.com/Wordcrime-Solving-Through-Forensic-Linguistics-ebook/dp/B00GNZ2HHU/)
-
+- [ ] GCHQ [Amazon](https://www.amazon.com/GCHQ-Richard-Aldrich/dp/0007278470/)
+- [ ] Mossad: The Great Operations of Israel's Secret Service [Amazon](https://www.amazon.com/Mossad-Operations-Israels-Service-English-ebook/dp/B00AKGPVNU/)
+- [ ] Vietnamese Organized Crime in the Czech Republic [Amazon](https://www.amazon.com/Vietnamese-Organized-Republic-Prevention-Management/dp/3030436128/)
 - [ ] Applied Behavior Analysis (3rd Edition) [Amazon](https://www.amazon.com/Applied-Behavior-Analysis-John-Cooper/dp/0134752554/)
 - [ ] Mindhunter: Inside the FBI's Elite Serial Crime Unit [Amazon](https://www.amazon.com/Mindhunter-Inside-Elite-Serial-Crime/dp/1501191969/)
 - [ ] Attribution of Advanced Persistent Threats: How to Identify the Actors Behind Cyber-Espionage [Amazon](https://www.amazon.com/Attribution-Advanced-Persistent-Threats-Cyber-Espionage/dp/3662613123/)
