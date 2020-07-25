@@ -2,6 +2,7 @@
 Reading list :
 
 - [ ] Unmasking Maskirovka [Amazon](https://www.amazon.com/-/es/Unmasking-Maskirovka-Russias-Influence-Operations/dp/0578451425/)
+- [ ] Russian Influence Campaigns against the West: From the Cold War to Putin [Amazon](https://www.amazon.com/Russian-Influence-Campaigns-against-West/dp/1535597097/)
 - [ ] Active Measures: The Secret History of Disinformation and Political Warfare [Amazon](https://www.amazon.com/Active-Measures-History-Disinformation-Political/dp/0374287260)
 - [ ] We Are Bellingcat, An Intelligence Agency for the People [Bloomsbury](https://www.bloomsbury.com/uk/we-are-bellingcat-9781526615756/)
 - [ ] Criminal Profiling: An Introduction to Behavioral Evidence Analysis [Amazon](https://www.amazon.com/Criminal-Profiling-Introduction-Behavioral-Evidence/dp/0123852439)
