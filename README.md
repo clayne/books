@@ -13,6 +13,7 @@ Reading list :
 - [ ] Yo confieso: 45 años de espía [Amazon](https://www.amazon.es/Yo-confieso-esp%C3%ADa-seller-Ficci%C3%B3n/dp/8416859868/)
 - [ ] GCHQ [Amazon](https://www.amazon.com/GCHQ-Richard-Aldrich/dp/0007278470/)
 - [ ] Mossad: The Great Operations of Israel's Secret Service [Amazon](https://www.amazon.com/Mossad-Operations-Israels-Service-English-ebook/dp/B00AKGPVNU/)
+- [ ] Compromised, Counterintelligence and the threat of Donald J. Trump [hmhbooks](https://www.hmhbooks.com/shop/books/Compromised/9780358237532)
 - [ ] Vietnamese Organized Crime in the Czech Republic [Amazon](https://www.amazon.com/Vietnamese-Organized-Republic-Prevention-Management/dp/3030436128/)
 - [ ] Applied Behavior Analysis (3rd Edition) [Amazon](https://www.amazon.com/Applied-Behavior-Analysis-John-Cooper/dp/0134752554/)
 - [ ] Mindhunter: Inside the FBI's Elite Serial Crime Unit [Amazon](https://www.amazon.com/Mindhunter-Inside-Elite-Serial-Crime/dp/1501191969/)
