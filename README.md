@@ -19,6 +19,7 @@ Reading list :
 - [ ] Mindhunter: Inside the FBI's Elite Serial Crime Unit [Amazon](https://www.amazon.com/Mindhunter-Inside-Elite-Serial-Crime/dp/1501191969/)
 - [ ] Attribution of Advanced Persistent Threats: How to Identify the Actors Behind Cyber-Espionage [Amazon](https://www.amazon.com/Attribution-Advanced-Persistent-Threats-Cyber-Espionage/dp/3662613123/)
 - [ ] Malware Data Science: Attack Detection and Attribution [Amazon](https://www.amazon.com/Malware-Data-Science-Detection-Attribution/dp/1593278594/)
+- [ ] Malware Analysis and Detection Engineering: A Comprehensive Approach to Detect and Analyze Modern Malware [Amazon](https://www.amazon.com/dp/1484261925)
 - [ ] 5G Enabled Secure Wireless Networks [Amazon](https://www.amazon.com/5G-Enabled-Secure-Wireless-Networks-dp-3030035077/dp/3030035077/)
 - [ ] American Kingpin: Catching the Billion-Dollar Baron of the Dark Web [Amazon](https://www.amazon.com/American-Kingpin-Criminal-Mastermind-Behind-ebook/dp/B01L8C4WBG/)
 - [x] The Insider Threat: Assessment and Mitigation of Risks [Amazon](https://www.amazon.com/Eleanor-Thompson/dp/0367565307/) [**5**]
