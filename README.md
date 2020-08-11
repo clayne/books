@@ -15,12 +15,12 @@ Reading list :
 - [ ] Mossad: The Great Operations of Israel's Secret Service [Amazon](https://www.amazon.com/Mossad-Operations-Israels-Service-English-ebook/dp/B00AKGPVNU/)
 - [ ] Compromised, Counterintelligence and the threat of Donald J. Trump [hmhbooks](https://www.hmhbooks.com/shop/books/Compromised/9780358237532)
 - [ ] Vietnamese Organized Crime in the Czech Republic [Amazon](https://www.amazon.com/Vietnamese-Organized-Republic-Prevention-Management/dp/3030436128/)
-- [ ] Applied Behavior Analysis (3rd Edition) [Amazon](https://www.amazon.com/Applied-Behavior-Analysis-John-Cooper/dp/0134752554/)
-- [ ] Mindhunter: Inside the FBI's Elite Serial Crime Unit [Amazon](https://www.amazon.com/Mindhunter-Inside-Elite-Serial-Crime/dp/1501191969/)
+- [x] Applied Behavior Analysis (3rd Edition) [Amazon](https://www.amazon.com/Applied-Behavior-Analysis-John-Cooper/dp/0134752554/) [**7**]
+- [x] Mindhunter: Inside the FBI's Elite Serial Crime Unit [Amazon](https://www.amazon.com/Mindhunter-Inside-Elite-Serial-Crime/dp/1501191969/) [**7**]
 - [ ] Attribution of Advanced Persistent Threats: How to Identify the Actors Behind Cyber-Espionage [Amazon](https://www.amazon.com/Attribution-Advanced-Persistent-Threats-Cyber-Espionage/dp/3662613123/)
 - [ ] Malware Data Science: Attack Detection and Attribution [Amazon](https://www.amazon.com/Malware-Data-Science-Detection-Attribution/dp/1593278594/)
 - [ ] Malware Analysis and Detection Engineering: A Comprehensive Approach to Detect and Analyze Modern Malware [Amazon](https://www.amazon.com/dp/1484261925)
-- [ ] 5G Enabled Secure Wireless Networks [Amazon](https://www.amazon.com/5G-Enabled-Secure-Wireless-Networks-dp-3030035077/dp/3030035077/)
+- [x] 5G Enabled Secure Wireless Networks [Amazon](https://www.amazon.com/5G-Enabled-Secure-Wireless-Networks-dp-3030035077/dp/3030035077/) [**5**]
 - [ ] American Kingpin: Catching the Billion-Dollar Baron of the Dark Web [Amazon](https://www.amazon.com/American-Kingpin-Criminal-Mastermind-Behind-ebook/dp/B01L8C4WBG/)
 - [x] The Insider Threat: Assessment and Mitigation of Risks [Amazon](https://www.amazon.com/Eleanor-Thompson/dp/0367565307/) [**5**]
 - [x] Malicious Attack Propagation and Source Identification [Amazon](https://www.amazon.com/Malicious-Propagation-Identification-Advances-Information-ebook/dp/B07KQZN9VJ/) [**5**]
