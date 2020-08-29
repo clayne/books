@@ -22,6 +22,7 @@ Reading list :
 - [ ] Malware Analysis and Detection Engineering: A Comprehensive Approach to Detect and Analyze Modern Malware [Amazon](https://www.amazon.com/dp/1484261925)
 - [x] 5G Enabled Secure Wireless Networks [Amazon](https://www.amazon.com/5G-Enabled-Secure-Wireless-Networks-dp-3030035077/dp/3030035077/) [**5**]
 - [ ] American Kingpin: Catching the Billion-Dollar Baron of the Dark Web [Amazon](https://www.amazon.com/American-Kingpin-Criminal-Mastermind-Behind-ebook/dp/B01L8C4WBG/)
+- [ ] Spies and Their Masters: Intelligence-policy Relations in Democratic Countries [Amazon](https://www.amazon.de/Matteo-Faini/dp/0367407620/)
 - [x] The Insider Threat: Assessment and Mitigation of Risks [Amazon](https://www.amazon.com/Eleanor-Thompson/dp/0367565307/) [**5**]
 - [x] Malicious Attack Propagation and Source Identification [Amazon](https://www.amazon.com/Malicious-Propagation-Identification-Advances-Information-ebook/dp/B07KQZN9VJ/) [**5**]
 - [x] Czech Security Dilemma: Russia as a Friend or Enemy? [Amazon](https://www.amazon.com/Czech-Security-Dilemma-Russia-Challenges-ebook/dp/B07TVM91NL/) [**4**]
