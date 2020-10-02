@@ -14,7 +14,7 @@ Reading list :
 - [ ] GCHQ [Amazon](https://www.amazon.com/GCHQ-Richard-Aldrich/dp/0007278470/)
 - [ ] Mossad: The Great Operations of Israel's Secret Service [Amazon](https://www.amazon.com/Mossad-Operations-Israels-Service-English-ebook/dp/B00AKGPVNU/)
 - [ ] Compromised, Counterintelligence and the threat of Donald J. Trump [hmhbooks](https://www.hmhbooks.com/shop/books/Compromised/9780358237532)
-- [ ] Vietnamese Organized Crime in the Czech Republic [Amazon](https://www.amazon.com/Vietnamese-Organized-Republic-Prevention-Management/dp/3030436128/)
+- [x] Vietnamese Organized Crime in the Czech Republic [Amazon](https://www.amazon.com/Vietnamese-Organized-Republic-Prevention-Management/dp/3030436128/) [**5**]
 - [x] Applied Behavior Analysis (3rd Edition) [Amazon](https://www.amazon.com/Applied-Behavior-Analysis-John-Cooper/dp/0134752554/) [**7**]
 - [x] Mindhunter: Inside the FBI's Elite Serial Crime Unit [Amazon](https://www.amazon.com/Mindhunter-Inside-Elite-Serial-Crime/dp/1501191969/) [**7**]
 - [ ] Attribution of Advanced Persistent Threats: How to Identify the Actors Behind Cyber-Espionage [Amazon](https://www.amazon.com/Attribution-Advanced-Persistent-Threats-Cyber-Espionage/dp/3662613123/)
