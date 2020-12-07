@@ -1,6 +1,7 @@
 # books [1/10]
 Reading list :
 
+- [ ] El Jefe: The Stalking of Chapo Guzmán [Amazon](https://www.amazon.com/El-Jefe-Alan-Feuer/dp/1250254507)
 - [ ] Unmasking Maskirovka [Amazon](https://www.amazon.com/-/es/Unmasking-Maskirovka-Russias-Influence-Operations/dp/0578451425/)
 - [ ] Russian Influence Campaigns against the West: From the Cold War to Putin [Amazon](https://www.amazon.com/Russian-Influence-Campaigns-against-West/dp/1535597097/)
 - [ ] Active Measures: The Secret History of Disinformation and Political Warfare [Amazon](https://www.amazon.com/Active-Measures-History-Disinformation-Political/dp/0374287260)
